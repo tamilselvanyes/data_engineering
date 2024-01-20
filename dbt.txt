@@ -1,0 +1,16 @@
+Rise of Modern Data Stack
+
+SMP
+Symmetric multiprocessing (SMP) is a computer processing method that involves multiple processors sharing a single operating system and memory. 
+In SMP, processors share the same input/output (I/O) bus or data path.
+
+MPP cloud Data storage: Massive Parallel Processing
+Eg: snowflake, Google big query, Amazon Redshift Managed Storage, Azure Synapse Analytics SQL pool.
+compute and storage are decoupled.
+
+
+Row oriented databases --> Column oriented databases
+
+ROB -> Read and Write Easy eg: Postgres, MySQL
+Column oriented databases --> Analytics, Compressed, Less I/O
+
