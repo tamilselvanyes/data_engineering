@@ -14,3 +14,26 @@ Row oriented databases --> Column oriented databases
 ROB -> Read and Write Easy eg: Postgres, MySQL
 Column oriented databases --> Analytics, Compressed, Less I/O
 
+Main requirements for data engineers:
+
+Model Changes are easy to follow and revert
+Explicit dependencies between the models
+Data Quality test
+Error reporting
+Incremental load of fact tables
+Track history of dimensional changes tables
+Easy to access documentation
+
+
+https://github.com/nordquant/complete-dbt-bootcamp-zero-to-hero
+
+sm6769.us-east-2.aws
+
+steps to init:
+
+pip install dbt-snowflake
+
+mkdir ~/.dbt
+
+
+SCWEXKQ-SM86769
